@@ -3,3 +3,5 @@ hello world!
 Life is good;-)
 
 Life is really good.
+
+I like this class. The instructor is funny.
